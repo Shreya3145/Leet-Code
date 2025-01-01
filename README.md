@@ -1,5 +1,6 @@
 # Leet-Code Grind
 Welcome to my LeetCode solutions repository! 🚀
+<b>
 This repository contains solutions to various LeetCode problems, implemented in Java ☕️
 
 # About
