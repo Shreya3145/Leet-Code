@@ -1,4 +1,5 @@
 public class PalindromeNumber {
+
         public boolean isPalindrome(int x) {
             int ori = x;
             int rem = 0;
@@ -7,9 +8,7 @@ public class PalindromeNumber {
                 rem = rem * 10 + digit;
                 x = x/10; 
             }
-            if(rem==ori){
-                return true;
-            }
-            return false;
+            return rem==ori;
         }
     }
+
