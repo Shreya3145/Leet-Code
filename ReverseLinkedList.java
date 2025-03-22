@@ -1,4 +1,4 @@
-class Solution {
+class ReverseLinkedList {
     private ListNode head;
     
     public static class ListNode{
