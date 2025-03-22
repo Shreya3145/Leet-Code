@@ -1,9 +1,16 @@
-# Leet-Code Grind
-Welcome to my LeetCode solutions repository! 🚀
-<br>
-This repository contains solutions to various LeetCode problems, implemented in Java ☕️
+# Leet-Code Grind 
+This repository contains my solutions to **LeetCode** problems, implemented in **Java**.  
 
-# About
-I created this repository to track my progress on LeetCode problems and improve my problem-solving skills. The goal is to consistently practice and refine coding skills by solving algorithmic challenges.
+## ✅ Solved Problems  
 
+1. **Two Sum**  
+2. **Palindrome Number**  
+3. **Contains Duplicates**
+4. **Find Smallest Letter Greater Than Target**
 
+## 🛠 How to Run  
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your_username/leetcode-solutions.git
+   cd leetcode-solutions
