@@ -7,6 +7,8 @@ This repository contains my solutions to **LeetCode** problems, implemented in *
 2. **Palindrome Number**  
 3. **Contains Duplicates**
 4. **Find Smallest Letter Greater Than Target**
+5. **Reverse Linked List**
+6. **Linked List Cycle I**
 
 ## 🛠 How to Run  
 
